@@ -1,0 +1,2211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xml:lang="de" lang="de"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=Windows-1252">
+<!--[if !mso]><!---->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta name="format-detection" content="email=no">
+<meta name="format-detection" content="telephone=no">
+<meta name="color-scheme" content="light">
+<meta name="supported-color-schemes" content="light">
+<title>Aldi Süd</title>
+<style>
+    /* Basis-Stile */
+    body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        min-width: 320px;
+        background-color: #ffffff;
+        -webkit-text-size-adjust: none;
+        -ms-text-size-adjust: 100%;
+    }
+    .wrapper {
+        width: 100%;
+        table-layout: fixed;
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+        background-color: #ffffff;
+    }
+    .webkit {
+        max-width: 600px;
+        margin: 0 auto;
+    }
+    .content {
+        padding: 20px;
+    }
+    /* Empfehlungskomponenten-Stile */
+    .recommendation-container {
+        border: 1px solid #ddd;
+        padding: 10px;
+        margin: 10px 0;
+        background-color: #f9f9f9;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        max-width: 600px; /* Maximalbreite auf 600px beschränken */
+    }
+    .product {
+        flex: 0 0 16%; /* Flex-Basis für sechs Produkte nebeneinander, mit etwas Platz für Abstände */
+        box-sizing: border-box;
+        margin: 0 1%; /* Horizontaler Abstand zwischen Produkten */
+    }
+    .product img {
+        width: 100%; /* Bildbreite auf 100% des Containers begrenzen */
+        height: auto; /* Automatische Anpassung der Höhe */
+    }
+</style>
+</head>
+<body class="body">
+<center class="wrapper">
+<div class="webkit">
+    <br><br>
+    <div class="content">
+        
+        
+        <b>Target Reco: <!-- PoC installation for small number of recipients --></b>
+        <div class="recommendation-container">
+        <div><!-- Entity List Declaration -->
+
+
+
+
+
+
+
+
+
+<style>
+    .component_carousel .list-of-target-carousel .slick-next,
+    .component_carousel .list-of-target-carousel .slick-prev {
+        position: absolute;
+        top: 44%;
+        margin-top: -17.5px;
+        z-index: 1;
+    }
+
+    @media (max-width: 991px) {
+
+        .component_carousel .list-of-target-carousel .slick-next,
+        .component_carousel .list-of-target-carousel .slick-prev {
+            top: 44%;
+        }
+    }
+
+    .component_carousel .list-of-target-carousel .slick-prev {
+        left: -17.5px;
+    }
+
+    @media (max-width: 768px) {
+        .component_carousel .list-of-target-carousel .slick-prev {
+            left: 0;
+        }
+
+        .component_carousel .list-of-target-carousel .btn-primary {
+            display: none
+        }
+    }
+
+    .component_carousel .list-of-target-carousel .slick-next {
+        right: -17.5px;
+    }
+
+    @media (max-width: 768px) {
+        .component_carousel .list-of-target-carousel .slick-next {
+            right: 0;
+        }
+    }
+
+    .white-carousel-wrap .component_carousel .list-of-target-carousel .slick-prev {
+        background: rgba(255, 255, 255, 0.7);
+        left: -17.5px;
+    }
+
+    .white-carousel-wrap .component_carousel .list-of-target-carousel .slick-next:before,
+    .white-carousel-wrap .component_carousel .list-of-target-carousel .slick-prev:before {
+        color: #333;
+    }
+
+    @media (max-width: 768px) {
+        .white-carousel-wrap .component_carousel .list-of-target-carousel .slick-prev {
+            left: 0;
+        }
+    }
+
+    .white-carousel-wrap .component_carousel .list-of-target-carousel .slick-next {
+        background: rgba(255, 255, 255, 0.7);
+        right: -17.5px;
+    }
+
+    @media (max-width: 768px) {
+        .white-carousel-wrap .component_carousel .list-of-target-carousel .slick-next {
+            right: 0;
+        }
+    }
+
+    .list-of-target-carousel .slick-dots li.slick-active button:before {
+        color: #344384;
+    }
+
+    .list-of-target-carousel .slick-dots {
+        position: absolute;
+        display: block;
+        width: 100%;
+        padding: 0;
+        list-style: none;
+        text-align: center;
+        margin: 0;
+        pointer-events: none;
+    }
+
+    .list-of-target-carousel .slick-dots li:first-child:last-child {
+        display: none;
+    }
+
+    .list-of-target-carousel .slick-dots li {
+        pointer-events: auto;
+        position: relative;
+        display: inline-block;
+        width: 14px;
+        height: 14px;
+        margin: 0;
+        padding: 0;
+        cursor: pointer;
+    }
+
+    .list-of-target-carousel .slick-dots li button {
+        font-size: 0;
+        line-height: 0;
+        display: block;
+        width: 14px;
+        height: 14px;
+        padding: 5px;
+        cursor: pointer;
+        color: transparent;
+        border: 0;
+        outline: none;
+        background: 0 0;
+    }
+
+    .list-of-target-carousel .slick-dots li button:before {
+        font-size: 2.6rem;
+        line-height: 20px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 14px;
+        height: 14px;
+        content: "•";
+        text-align: center;
+        color: #d5d5d5;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    .list-of-target-carousel .slick-dots {
+        bottom: -20px;
+    }
+<!--(CIMS-1060,5270)
+- all below classed are used for energyClasscode main div -.pdpEnergyWrapper2 
+- svg.ico.ico-inline2 is class for logo 
+- .pdpEnergyWrapper2 svg.ico.ico-inline2 total alinement
+}-->
+.item.plp_product .pdpEnergyWrapper2
+{
+margin-left: 10px;
+}
+.pdpEnergyWrapper2{
+min-height: 37px;
+display: -ms-flexbox;
+display: flex;
+margin-left: 10px;
+}
+
+.pdpEnergyWrapper2 svg.ico.ico-inline2 {
+cursor: pointer;
+width: 70px;
+height: 32px;
+margin-left: -7px;
+}
+
+svg.ico.ico-inline2 {
+display: inline;
+vertical-align: middle;
+position: relative;
+top: -0.1em;
+}
+
+.minwidth_target_130{
+min-width: 130px;
+}
+
+.minwidth_target_145{
+min-width: 145px;
+}
+
+.minwidth_target_90{
+min-width: 90px;
+}
+.minwidth_target_140{
+min-width: 140px;
+}
+.minwidth_target_90{
+min-width: 90px;
+font-size : 1.1rem
+}
+.low_space_alinement{
+min-width:140px!important
+}
+
+.target_span_aline_shrik{
+position:absolute;
+top:-30px
+}
+
+.wishlist_tpl_target{
+    right: 5px;
+    position: absolute;
+    top: 10px;
+}
+</style>
+<!-- Container starts -->
+<section class="container-full container_background" style="background-color:#f1f1f1">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <!-- Component Carousel which consists slider with recommended products  -->
+                <div class="component_carousel">
+                                        <h2 class="title-component" style="text-align:Left">Produktempfehlungen Commaaa</h2>
+                    <!--Modal Popup is created for showing energyEfficiencyLabel , when it's not empty
+when user clicks on energy logo then only this popup will show (CIMS-5270)-->
+                    <div id="recommendation-slider" class="row  list-of-products list-of-target-carousel">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                            <article class="wrapper at-carousel-item_grp">
+                            <!-- Assigns class and ids to each product, add or remove from wishlist features  -->
+                            <div class="item plp_product at-allproductteaserbox_grpl" data-productid="000000000000114311">
+                                <span class="wishlist_tpl_target">
+                                    <button class="btn btn-light btn-ico js-btn-heart at-tile-add-to-wish-list_btn prod_recomm" data-wishlist="true" data-type="PRODUCT" data-product-code="000000000000114311" data-toggle="tooltip">
+                                        <span class="js-btn-heart_add">
+                                            <svg class="ico">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only"></span>
+                                        </span>
+                                        <span class="js-btn-heart_remove d-none">
+                                            <svg class="ico" aria-hidden="true">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart-dark">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only">Remove from list</span>
+                                        </span>
+                                    </button>
+                                </span>
+                                <!-- Shows product image, name  -->
+                                <a href="https://www.hofer.at/de/p.toskana-staemmchen.000000000000114311.html" target="_self">
+                                    <!-- Assigns the target_url data element value -->
+                                    <div class="plp_product__img">
+                                        <div class="badges-gallery card_badges">
+                                                                                        <div class="topLeft">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                            <div class="topRight">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                        </div>
+                                        <img src="https://s7g10.scene7.com/is/image/aldi/202404300241" alt="" style="object-fit:scale-down">
+                                    </div>
+                                    <h2 class="product-title" at-all-productName-lbl="">Toskana Stämmchen</h2>
+                                </a>
+                                <!-- Display product price value and price before product recommendation-->
+                                <div class="row plp_product__content">
+                                    <div class="col-12 text-truncate">
+                                        <div class="price retail_price">
+                                            <span class="price at-product-price_lbl">
+                                                <!-- Assigns the Target_price data element value to entity-->
+                                                                                               €19,99
+ 
+                                                                                            </span>
+                                        </div>
+                                        <div class="col-12">
+                                            <span class="price_before prod_recomm">
+                                                <!--Assigns the Target_wasPrice data element value to entity only if wasPrice information exits-->
+                                                <p></p>
+                                                                                            </span>
+                                            <span class="additional-product-info">
+                                                <!--Assigns the Target_salesUnit element value to entity only if salesUnit information exits-->
+                                                <tr height="20px" colspan="3" width="300px">
+                                                                                                                                                                                                                <td valign="top" align="left" height="20px" colspan="3" width="330px" bgcolor="#ffffff" style="text-align:left;font-family: Helvetica, Arial, sans-serif;word-wrap:normal;color:#4A4A4A;font-size:10px;font-weight:normal;">
+                                                        per Stück</td>
+                                                                                                                                                        </tr>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+<!-- Displays energybadgelogo for a product-->
+<div class="pdpEnergyWrapper2">
+<div>
+<div class="arrowLabelWrapper">
+<!-- Check if the entity.energyClassCode is not empty and then populate logo accordingly (CIMS-1060)-->
+</div>
+</div>
+</div>
+                                <!-- Displays customer ratings for a product-->
+                                <div class="col-12 plp_product__evaluator">
+                                    <div class="rating-and-evaluators at-product-starrating_lbl at-allratingsreview_imgl">
+                                        <!-- Assigns the Target_customerRatings data element value to entity only if customerRatings information exits-->
+                                                                                <a href="https://www.hofer.at/de/p.toskana-staemmchen.000000000000114311.html" data-entity-ratings="" tabindex="0">
+                                                                                    </a>
+                                    </div>
+                                </div>
+                                                                <div class="options-onlyonline">
+                                    <!-- Assigns the Target_onlyOnline data element value to entity-->
+                                    false
+                                </div>
+                                                                <!--                    
+<div class="options-local-product">
+Product 
+</div>
+-->
+
+                                <!-- Assign values to different variables using velocity entities-->
+                                <div class="entities d-none">
+                                    foo = ,
+                                    name = Toskana Stämmchen,
+                                    categoryId = ,
+                                    message = ,
+                                    thumbnailUrl = https://s7g10.scene7.com/is/image/aldi/202404300241,
+                                    value = 19.99,
+                                    pageUrl = https://www.hofer.at/de/p.toskana-staemmchen.000000000000114311.html,
+                                    inventory = $entity.inventory,
+                                    margin = $entity.margin,
+                                    brand = NO BRAND,
+                                    marginLevel = ,
+                                    certificates = ,
+                                    customerRatings = ,
+                                    awards = Pictogram_00000000EZCP,
+                                    wasPrice = ,
+                                    recipeCookTime = ,
+                                    recipeCourse = ,
+                                    recipeCuisine = ,
+                                    recipeDifficultyLevel = ,
+                                    grossWeight = ,
+                                    heroProduct = ,
+                                    inStore = true,
+                                    onlineDate = ,
+                                    netWeight = 5.697,
+                                    weightUnit = KG,
+                                    online = false,
+                                    onlyOnline = false,
+                                    onSalesDateTo = 10/06/2024 00:00:00,
+                                    OnSalesDateFrom = 13/05/2024 00:00:00,
+                                    recipePrepTime = ,
+                                    commodityGroupName = Pflanzen/Blumen,
+                                    recipeIngredients = [&quot;],
+                                    status = approved,
+                                    theme = Pflanzen,
+                                    allergensContains = [&quot;],
+                                    recipeTotalTime = ,
+                                    visibilityRegions = Product,
+                                    volume = 0.000,
+                                    volumeUnit = ,
+                                    weightUnit = KG,
+                                    nutrientsContains = [&quot;],
+                                    nutrientsFreeFrom = [&quot;],
+                                    nutrientsLow = [&quot;],
+                                    nutrientsHigh = [&quot;]
+                                </div>
+
+                                <!-- Component Footer -->
+<!-- for
+                                                INC1177410, code change done for rec_id_target . when the form is
+                                                initially loaded and 000000000000114311 still has no value, an empty string
+                                                will be output instead of "000000000000114311" . Formal and quiet reference
+                                                notation can be used together as shown below -->
+          																						
+													        
+																																				       
+                                <div class="row plp_product__footer hidden-print" style="background:none">
+                                    <div class="col-12 text-right pl-0 at-tile-cta_btn">
+                                        <div class="added_products-tpl product-preview" data-component="preview" data-product-sku="000000000000114311">
+                                           <span class="in-basket-label target_span_aline_shrik d-none">In Cart</span>
+                                                                                                                                                                                <a class="btn btn-secondary small btn-minwidth_140 mt-0 mr-0 at-moreinfo_btn" href="https://www.hofer.at/de/p.toskana-staemmchen.000000000000114311.html">
+                                                Mehr Informationen
+                                            </a>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                                                                                                
+                            <article class="wrapper at-carousel-item_grp">
+                            <!-- Assigns class and ids to each product, add or remove from wishlist features  -->
+                            <div class="item plp_product at-allproductteaserbox_grpl" data-productid="000000000000530250">
+                                <span class="wishlist_tpl_target">
+                                    <button class="btn btn-light btn-ico js-btn-heart at-tile-add-to-wish-list_btn prod_recomm" data-wishlist="true" data-type="PRODUCT" data-product-code="000000000000530250" data-toggle="tooltip">
+                                        <span class="js-btn-heart_add">
+                                            <svg class="ico">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only"></span>
+                                        </span>
+                                        <span class="js-btn-heart_remove d-none">
+                                            <svg class="ico" aria-hidden="true">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart-dark">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only">Remove from list</span>
+                                        </span>
+                                    </button>
+                                </span>
+                                <!-- Shows product image, name  -->
+                                <a href="https://www.hofer.at/de/p.gardenline-gemuesebeet-mini.000000000000530250.html" target="_self">
+                                    <!-- Assigns the target_url data element value -->
+                                    <div class="plp_product__img">
+                                        <div class="badges-gallery card_badges">
+                                                                                        <div class="topLeft">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                            <div class="topRight">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                        </div>
+                                        <img src="https://s7g10.scene7.com/is/image/aldi/202404240071" alt="" style="object-fit:scale-down">
+                                    </div>
+                                    <h2 class="product-title" at-all-productName-lbl="">GARDENLINE Gemüsebeet Mini</h2>
+                                </a>
+                                <!-- Display product price value and price before product recommendation-->
+                                <div class="row plp_product__content">
+                                    <div class="col-12 text-truncate">
+                                        <div class="price retail_price">
+                                            <span class="price at-product-price_lbl">
+                                                <!-- Assigns the Target_price data element value to entity-->
+                                                                                               €22,99
+ 
+                                                                                            </span>
+                                        </div>
+                                        <div class="col-12">
+                                            <span class="price_before prod_recomm">
+                                                <!--Assigns the Target_wasPrice data element value to entity only if wasPrice information exits-->
+                                                <p></p>
+                                                                                            </span>
+                                            <span class="additional-product-info">
+                                                <!--Assigns the Target_salesUnit element value to entity only if salesUnit information exits-->
+                                                <tr height="20px" colspan="3" width="300px">
+                                                                                                                                                                                                                <td valign="top" align="left" height="20px" colspan="3" width="330px" bgcolor="#ffffff" style="text-align:left;font-family: Helvetica, Arial, sans-serif;word-wrap:normal;color:#4A4A4A;font-size:10px;font-weight:normal;">
+                                                        per Stück</td>
+                                                                                                                                                        </tr>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+<!-- Displays energybadgelogo for a product-->
+<div class="pdpEnergyWrapper2">
+<div>
+<div class="arrowLabelWrapper">
+<!-- Check if the entity.energyClassCode is not empty and then populate logo accordingly (CIMS-1060)-->
+</div>
+</div>
+</div>
+                                <!-- Displays customer ratings for a product-->
+                                <div class="col-12 plp_product__evaluator">
+                                    <div class="rating-and-evaluators at-product-starrating_lbl at-allratingsreview_imgl">
+                                        <!-- Assigns the Target_customerRatings data element value to entity only if customerRatings information exits-->
+                                                                                <a href="https://www.hofer.at/de/p.gardenline-gemuesebeet-mini.000000000000530250.html" data-entity-ratings="" tabindex="0">
+                                                                                    </a>
+                                    </div>
+                                </div>
+                                                                <div class="options-onlyonline">
+                                    <!-- Assigns the Target_onlyOnline data element value to entity-->
+                                    false
+                                </div>
+                                                                <!--                    
+<div class="options-local-product">
+Product 
+</div>
+-->
+
+                                <!-- Assign values to different variables using velocity entities-->
+                                <div class="entities d-none">
+                                    foo = ,
+                                    name = GARDENLINE Gemüsebeet Mini,
+                                    categoryId = ,
+                                    message = ,
+                                    thumbnailUrl = https://s7g10.scene7.com/is/image/aldi/202404240071,
+                                    value = 22.99,
+                                    pageUrl = https://www.hofer.at/de/p.gardenline-gemuesebeet-mini.000000000000530250.html,
+                                    inventory = $entity.inventory,
+                                    margin = $entity.margin,
+                                    brand = GARDENLINE,
+                                    marginLevel = ,
+                                    certificates = ,
+                                    customerRatings = ,
+                                    awards = Pictogram_00000000BJWB,236,
+                                    wasPrice = ,
+                                    recipeCookTime = ,
+                                    recipeCourse = ,
+                                    recipeCuisine = ,
+                                    recipeDifficultyLevel = ,
+                                    grossWeight = ,
+                                    heroProduct = false,
+                                    inStore = true,
+                                    onlineDate = ,
+                                    netWeight = 4.500,
+                                    weightUnit = KG,
+                                    online = false,
+                                    onlyOnline = false,
+                                    onSalesDateTo = 10/06/2024 00:00:00,
+                                    OnSalesDateFrom = 13/05/2024 00:00:00,
+                                    recipePrepTime = ,
+                                    commodityGroupName = Gartenbedarf,
+                                    recipeIngredients = [&quot;],
+                                    status = approved,
+                                    theme = Garten,
+                                    allergensContains = [&quot;],
+                                    recipeTotalTime = ,
+                                    visibilityRegions = Product,
+                                    volume = 0.000,
+                                    volumeUnit = CDM,
+                                    weightUnit = KG,
+                                    nutrientsContains = [&quot;],
+                                    nutrientsFreeFrom = [&quot;],
+                                    nutrientsLow = [&quot;],
+                                    nutrientsHigh = [&quot;]
+                                </div>
+
+                                <!-- Component Footer -->
+<!-- for
+                                                INC1177410, code change done for rec_id_target . when the form is
+                                                initially loaded and 000000000000530250 still has no value, an empty string
+                                                will be output instead of "000000000000530250" . Formal and quiet reference
+                                                notation can be used together as shown below -->
+          																						
+													        
+																																				       
+                                <div class="row plp_product__footer hidden-print" style="background:none">
+                                    <div class="col-12 text-right pl-0 at-tile-cta_btn">
+                                        <div class="added_products-tpl product-preview" data-component="preview" data-product-sku="000000000000530250">
+                                           <span class="in-basket-label target_span_aline_shrik d-none">In Cart</span>
+                                                                                                                                                                                <a class="btn btn-secondary small btn-minwidth_140 mt-0 mr-0 at-moreinfo_btn" href="https://www.hofer.at/de/p.gardenline-gemuesebeet-mini.000000000000530250.html">
+                                                Mehr Informationen
+                                            </a>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                                                                                                
+                            <article class="wrapper at-carousel-item_grp">
+                            <!-- Assigns class and ids to each product, add or remove from wishlist features  -->
+                            <div class="item plp_product at-allproductteaserbox_grpl" data-productid="000000000000532104">
+                                <span class="wishlist_tpl_target">
+                                    <button class="btn btn-light btn-ico js-btn-heart at-tile-add-to-wish-list_btn prod_recomm" data-wishlist="true" data-type="PRODUCT" data-product-code="000000000000532104" data-toggle="tooltip">
+                                        <span class="js-btn-heart_add">
+                                            <svg class="ico">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only"></span>
+                                        </span>
+                                        <span class="js-btn-heart_remove d-none">
+                                            <svg class="ico" aria-hidden="true">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart-dark">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only">Remove from list</span>
+                                        </span>
+                                    </button>
+                                </span>
+                                <!-- Shows product image, name  -->
+                                <a href="https://www.hofer.at/de/p.schulterrucksack.000000000000532104.html" target="_self">
+                                    <!-- Assigns the target_url data element value -->
+                                    <div class="plp_product__img">
+                                        <div class="badges-gallery card_badges">
+                                                                                        <div class="topLeft">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                            <div class="topRight">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                        </div>
+                                        <img src="https://s7g10.scene7.com/is/image/aldi/202404080312" alt="" style="object-fit:scale-down">
+                                    </div>
+                                    <h2 class="product-title" at-all-productName-lbl="">Schulterrucksack</h2>
+                                </a>
+                                <!-- Display product price value and price before product recommendation-->
+                                <div class="row plp_product__content">
+                                    <div class="col-12 text-truncate">
+                                        <div class="price retail_price">
+                                            <span class="price at-product-price_lbl">
+                                                <!-- Assigns the Target_price data element value to entity-->
+                                                                                               €9,99
+ 
+                                                                                            </span>
+                                        </div>
+                                        <div class="col-12">
+                                            <span class="price_before prod_recomm">
+                                                <!--Assigns the Target_wasPrice data element value to entity only if wasPrice information exits-->
+                                                <p></p>
+                                                                                            </span>
+                                            <span class="additional-product-info">
+                                                <!--Assigns the Target_salesUnit element value to entity only if salesUnit information exits-->
+                                                <tr height="20px" colspan="3" width="300px">
+                                                                                                                                                                                                                <td valign="top" align="left" height="20px" colspan="3" width="330px" bgcolor="#ffffff" style="text-align:left;font-family: Helvetica, Arial, sans-serif;word-wrap:normal;color:#4A4A4A;font-size:10px;font-weight:normal;">
+                                                        per Stück</td>
+                                                                                                                                                        </tr>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+<!-- Displays energybadgelogo for a product-->
+<div class="pdpEnergyWrapper2">
+<div>
+<div class="arrowLabelWrapper">
+<!-- Check if the entity.energyClassCode is not empty and then populate logo accordingly (CIMS-1060)-->
+</div>
+</div>
+</div>
+                                <!-- Displays customer ratings for a product-->
+                                <div class="col-12 plp_product__evaluator">
+                                    <div class="rating-and-evaluators at-product-starrating_lbl at-allratingsreview_imgl">
+                                        <!-- Assigns the Target_customerRatings data element value to entity only if customerRatings information exits-->
+                                                                                <a href="https://www.hofer.at/de/p.schulterrucksack.000000000000532104.html" data-entity-ratings="" tabindex="0">
+                                                                                    </a>
+                                    </div>
+                                </div>
+                                                                <div class="options-onlyonline">
+                                    <!-- Assigns the Target_onlyOnline data element value to entity-->
+                                    false
+                                </div>
+                                                                <!--                    
+<div class="options-local-product">
+Product 
+</div>
+-->
+
+                                <!-- Assign values to different variables using velocity entities-->
+                                <div class="entities d-none">
+                                    foo = ,
+                                    name = Schulterrucksack,
+                                    categoryId = ,
+                                    message = ,
+                                    thumbnailUrl = https://s7g10.scene7.com/is/image/aldi/202404080312,
+                                    value = 9.99,
+                                    pageUrl = https://www.hofer.at/de/p.schulterrucksack.000000000000532104.html,
+                                    inventory = $entity.inventory,
+                                    margin = $entity.margin,
+                                    brand = NO BRAND,
+                                    marginLevel = ,
+                                    certificates = ,
+                                    customerRatings = ,
+                                    awards = [&quot;],
+                                    wasPrice = ,
+                                    recipeCookTime = ,
+                                    recipeCourse = ,
+                                    recipeCuisine = ,
+                                    recipeDifficultyLevel = ,
+                                    grossWeight = ,
+                                    heroProduct = ,
+                                    inStore = true,
+                                    onlineDate = ,
+                                    netWeight = 0.126,
+                                    weightUnit = KG,
+                                    online = false,
+                                    onlyOnline = false,
+                                    onSalesDateTo = 10/06/2024 00:00:00,
+                                    OnSalesDateFrom = 13/05/2024 00:00:00,
+                                    recipePrepTime = ,
+                                    commodityGroupName = Koffer/Taschen,
+                                    recipeIngredients = [&quot;],
+                                    status = approved,
+                                    theme = Damentextilien,
+                                    allergensContains = [&quot;],
+                                    recipeTotalTime = ,
+                                    visibilityRegions = Product,
+                                    volume = 0.000,
+                                    volumeUnit = CDM,
+                                    weightUnit = KG,
+                                    nutrientsContains = [&quot;],
+                                    nutrientsFreeFrom = [&quot;],
+                                    nutrientsLow = [&quot;],
+                                    nutrientsHigh = [&quot;]
+                                </div>
+
+                                <!-- Component Footer -->
+<!-- for
+                                                INC1177410, code change done for rec_id_target . when the form is
+                                                initially loaded and 000000000000532104 still has no value, an empty string
+                                                will be output instead of "000000000000532104" . Formal and quiet reference
+                                                notation can be used together as shown below -->
+          																						
+													        
+																																				       
+                                <div class="row plp_product__footer hidden-print" style="background:none">
+                                    <div class="col-12 text-right pl-0 at-tile-cta_btn">
+                                        <div class="added_products-tpl product-preview" data-component="preview" data-product-sku="000000000000532104">
+                                           <span class="in-basket-label target_span_aline_shrik d-none">In Cart</span>
+                                                                                                                                                                                <a class="btn btn-secondary small btn-minwidth_140 mt-0 mr-0 at-moreinfo_btn" href="https://www.hofer.at/de/p.schulterrucksack.000000000000532104.html">
+                                                Mehr Informationen
+                                            </a>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                                                                                                
+                            <article class="wrapper at-carousel-item_grp">
+                            <!-- Assigns class and ids to each product, add or remove from wishlist features  -->
+                            <div class="item plp_product at-allproductteaserbox_grpl" data-productid="000000000000575053">
+                                <span class="wishlist_tpl_target">
+                                    <button class="btn btn-light btn-ico js-btn-heart at-tile-add-to-wish-list_btn prod_recomm" data-wishlist="true" data-type="PRODUCT" data-product-code="000000000000575053" data-toggle="tooltip">
+                                        <span class="js-btn-heart_add">
+                                            <svg class="ico">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only"></span>
+                                        </span>
+                                        <span class="js-btn-heart_remove d-none">
+                                            <svg class="ico" aria-hidden="true">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart-dark">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only">Remove from list</span>
+                                        </span>
+                                    </button>
+                                </span>
+                                <!-- Shows product image, name  -->
+                                <a href="https://www.hofer.at/de/p.bonn-eichenpaneele-grau.000000000000575053.html" target="_self">
+                                    <!-- Assigns the target_url data element value -->
+                                    <div class="plp_product__img">
+                                        <div class="badges-gallery card_badges">
+                                                                                        <div class="topLeft">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="https://s7g10.scene7.com/is/image/aldi/pictogram_hofer_online_shop" srcset="https://s7g10.scene7.com/is/image/aldi/pictogram_hofer_online_shop">
+                                                                                            </div>
+                                            <div class="topRight">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                        </div>
+                                        <img src="https://s7g10.scene7.com/is/image/aldi/202404170473" alt="" style="object-fit:scale-down">
+                                    </div>
+                                    <h2 class="product-title" at-all-productName-lbl="">BONN Eichenpaneele Grau</h2>
+                                </a>
+                                <!-- Display product price value and price before product recommendation-->
+                                <div class="row plp_product__content">
+                                    <div class="col-12 text-truncate">
+                                        <div class="price retail_price">
+                                            <span class="price at-product-price_lbl">
+                                                <!-- Assigns the Target_price data element value to entity-->
+                                                                                               €179,00
+ 
+                                                                                            </span>
+                                        </div>
+                                        <div class="col-12">
+                                            <span class="price_before prod_recomm">
+                                                <!--Assigns the Target_wasPrice data element value to entity only if wasPrice information exits-->
+                                                <p></p>
+                                                                                            </span>
+                                            <span class="additional-product-info">
+                                                <!--Assigns the Target_salesUnit element value to entity only if salesUnit information exits-->
+                                                <tr height="20px" colspan="3" width="300px">
+                                                                                                                                                                                                                <td valign="top" align="left" height="20px" colspan="3" width="330px" bgcolor="#ffffff" style="text-align:left;font-family: Helvetica, Arial, sans-serif;word-wrap:normal;color:#4A4A4A;font-size:10px;font-weight:normal;">
+                                                        per Stück</td>
+                                                                                                                                                        </tr>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+<!-- Displays energybadgelogo for a product-->
+<div class="pdpEnergyWrapper2">
+<div>
+<div class="arrowLabelWrapper">
+<!-- Check if the entity.energyClassCode is not empty and then populate logo accordingly (CIMS-1060)-->
+</div>
+</div>
+</div>
+                                <!-- Displays customer ratings for a product-->
+                                <div class="col-12 plp_product__evaluator">
+                                    <div class="rating-and-evaluators at-product-starrating_lbl at-allratingsreview_imgl">
+                                        <!-- Assigns the Target_customerRatings data element value to entity only if customerRatings information exits-->
+                                                                                <a href="https://www.hofer.at/de/p.bonn-eichenpaneele-grau.000000000000575053.html" data-entity-ratings="" tabindex="0">
+                                                                                    </a>
+                                    </div>
+                                </div>
+                                                                <div class="options-onlyonline">
+                                    <!-- Assigns the Target_onlyOnline data element value to entity-->
+                                    false
+                                </div>
+                                                                <!--                    
+<div class="options-local-product">
+Product 
+</div>
+-->
+
+                                <!-- Assign values to different variables using velocity entities-->
+                                <div class="entities d-none">
+                                    foo = ,
+                                    name = BONN Eichenpaneele Grau,
+                                    categoryId = ,
+                                    message = $entity.message,
+                                    thumbnailUrl = https://s7g10.scene7.com/is/image/aldi/202404170473,
+                                    value = 179.00,
+                                    pageUrl = https://www.hofer.at/de/p.bonn-eichenpaneele-grau.000000000000575053.html,
+                                    inventory = $entity.inventory,
+                                    margin = $entity.margin,
+                                    brand = NO BRAND,
+                                    marginLevel = ,
+                                    certificates = ,
+                                    customerRatings = ,
+                                    awards = Pictogram_00000000BJWB,Pictogram_00000000071U,pictogram_hofer_online_shop,
+                                    wasPrice = ,
+                                    recipeCookTime = ,
+                                    recipeCourse = ,
+                                    recipeCuisine = ,
+                                    recipeDifficultyLevel = ,
+                                    grossWeight = ,
+                                    heroProduct = true,
+                                    inStore = true,
+                                    onlineDate = ,
+                                    netWeight = 10.000,
+                                    weightUnit = KG,
+                                    online = true,
+                                    onlyOnline = false,
+                                    onSalesDateTo = 17/06/2024 00:00:00,
+                                    OnSalesDateFrom = 06/05/2024 00:00:00,
+                                    recipePrepTime = ,
+                                    commodityGroupName = Möbel,
+                                    recipeIngredients = [&quot;],
+                                    status = approved,
+                                    theme = Weitere Angebote,
+                                    allergensContains = [&quot;],
+                                    recipeTotalTime = ,
+                                    visibilityRegions = Product,
+                                    volume = 0.000,
+                                    volumeUnit = CDM,
+                                    weightUnit = KG,
+                                    nutrientsContains = [&quot;],
+                                    nutrientsFreeFrom = [&quot;],
+                                    nutrientsLow = [&quot;],
+                                    nutrientsHigh = [&quot;]
+                                </div>
+
+                                <!-- Component Footer -->
+<!-- for
+                                                INC1177410, code change done for rec_id_target . when the form is
+                                                initially loaded and 000000000000575053 still has no value, an empty string
+                                                will be output instead of "000000000000575053" . Formal and quiet reference
+                                                notation can be used together as shown below -->
+          																						
+													        
+																																				       
+                                <div class="row plp_product__footer hidden-print" style="background:none">
+                                    <div class="col-12 text-right pl-0 at-tile-cta_btn">
+                                        <div class="added_products-tpl product-preview" data-component="preview" data-product-sku="000000000000575053">
+                                           <span class="in-basket-label target_span_aline_shrik d-none">In Cart</span>
+                                                                                        <button class="btn btn-primary small d-md-inline-block btn-minwidth_150 show-quickbuy at-options_btn text-center prod_recomm low_space_alinement" data-product-code="000000000000575053" data-target="#plp_product__modal" data-toggle="modal" data-already-in-cart="" tabindex="0" data-url="/de/quick-buy.false.000000000000575053.html?1234567890123">
+                                                <sup></sup>
+                                                Online bestellen
+                                            </button>
+                                            <a class="btn btn-secondary btn-minwidth_150 small d-sm-inline-block d-md-none  at-moreinfo_btn float-right" href="https://www.hofer.at/de/p.bonn-eichenpaneele-grau.000000000000575053.html">
+                                                Mehr Informationen
+                                            </a>
+                                                                                                                                                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                                                                                                
+                            <article class="wrapper at-carousel-item_grp">
+                            <!-- Assigns class and ids to each product, add or remove from wishlist features  -->
+                            <div class="item plp_product at-allproductteaserbox_grpl" data-productid="000000000000530263">
+                                <span class="wishlist_tpl_target">
+                                    <button class="btn btn-light btn-ico js-btn-heart at-tile-add-to-wish-list_btn prod_recomm" data-wishlist="true" data-type="PRODUCT" data-product-code="000000000000530263" data-toggle="tooltip">
+                                        <span class="js-btn-heart_add">
+                                            <svg class="ico">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only"></span>
+                                        </span>
+                                        <span class="js-btn-heart_remove d-none">
+                                            <svg class="ico" aria-hidden="true">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart-dark">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only">Remove from list</span>
+                                        </span>
+                                    </button>
+                                </span>
+                                <!-- Shows product image, name  -->
+                                <a href="https://www.hofer.at/de/p.crane-damen--herren-laufschuhe.000000000000530263.html" target="_self">
+                                    <!-- Assigns the target_url data element value -->
+                                    <div class="plp_product__img">
+                                        <div class="badges-gallery card_badges">
+                                                                                        <div class="topLeft">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                            <div class="topRight">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                        </div>
+                                        <img src="https://s7g10.scene7.com/is/image/aldi/202404170456" alt="" style="object-fit:scale-down">
+                                    </div>
+                                    <h2 class="product-title" at-all-productName-lbl="">CRANE Damen-/Herren-Laufschuhe</h2>
+                                </a>
+                                <!-- Display product price value and price before product recommendation-->
+                                <div class="row plp_product__content">
+                                    <div class="col-12 text-truncate">
+                                        <div class="price retail_price">
+                                            <span class="price at-product-price_lbl">
+                                                <!-- Assigns the Target_price data element value to entity-->
+                                                                                               €19,99
+ 
+                                                                                            </span>
+                                        </div>
+                                        <div class="col-12">
+                                            <span class="price_before prod_recomm">
+                                                <!--Assigns the Target_wasPrice data element value to entity only if wasPrice information exits-->
+                                                <p></p>
+                                                                                            </span>
+                                            <span class="additional-product-info">
+                                                <!--Assigns the Target_salesUnit element value to entity only if salesUnit information exits-->
+                                                <tr height="20px" colspan="3" width="300px">
+                                                                                                                                                                                                                <td valign="top" align="left" height="20px" colspan="3" width="330px" bgcolor="#ffffff" style="text-align:left;font-family: Helvetica, Arial, sans-serif;word-wrap:normal;color:#4A4A4A;font-size:10px;font-weight:normal;">
+                                                        per Paar</td>
+                                                                                                                                                        </tr>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+<!-- Displays energybadgelogo for a product-->
+<div class="pdpEnergyWrapper2">
+<div>
+<div class="arrowLabelWrapper">
+<!-- Check if the entity.energyClassCode is not empty and then populate logo accordingly (CIMS-1060)-->
+</div>
+</div>
+</div>
+                                <!-- Displays customer ratings for a product-->
+                                <div class="col-12 plp_product__evaluator">
+                                    <div class="rating-and-evaluators at-product-starrating_lbl at-allratingsreview_imgl">
+                                        <!-- Assigns the Target_customerRatings data element value to entity only if customerRatings information exits-->
+                                                                                <a href="https://www.hofer.at/de/p.crane-damen--herren-laufschuhe.000000000000530263.html" data-entity-ratings="" tabindex="0">
+                                                                                    </a>
+                                    </div>
+                                </div>
+                                                                <div class="options-onlyonline">
+                                    <!-- Assigns the Target_onlyOnline data element value to entity-->
+                                    false
+                                </div>
+                                                                <!--                    
+<div class="options-local-product">
+Product 
+</div>
+-->
+
+                                <!-- Assign values to different variables using velocity entities-->
+                                <div class="entities d-none">
+                                    foo = ,
+                                    name = CRANE Damen-/Herren-Laufschuhe,
+                                    categoryId = ,
+                                    message = ,
+                                    thumbnailUrl = https://s7g10.scene7.com/is/image/aldi/202404170456,
+                                    value = 19.99,
+                                    pageUrl = https://www.hofer.at/de/p.crane-damen--herren-laufschuhe.000000000000530263.html,
+                                    inventory = $entity.inventory,
+                                    margin = $entity.margin,
+                                    brand = CRANE,
+                                    marginLevel = ,
+                                    certificates = ,
+                                    customerRatings = ,
+                                    awards = 81,
+                                    wasPrice = ,
+                                    recipeCookTime = ,
+                                    recipeCourse = ,
+                                    recipeCuisine = ,
+                                    recipeDifficultyLevel = ,
+                                    grossWeight = ,
+                                    heroProduct = ,
+                                    inStore = true,
+                                    onlineDate = ,
+                                    netWeight = 0.600,
+                                    weightUnit = KG,
+                                    online = false,
+                                    onlyOnline = false,
+                                    onSalesDateTo = 03/06/2024 00:00:00,
+                                    OnSalesDateFrom = 06/05/2024 00:00:00,
+                                    recipePrepTime = ,
+                                    commodityGroupName = Schuhe,
+                                    recipeIngredients = [&quot;],
+                                    status = approved,
+                                    theme = Damentextilien,
+                                    allergensContains = [&quot;],
+                                    recipeTotalTime = ,
+                                    visibilityRegions = Product,
+                                    volume = 0.000,
+                                    volumeUnit = CDM,
+                                    weightUnit = KG,
+                                    nutrientsContains = [&quot;],
+                                    nutrientsFreeFrom = [&quot;],
+                                    nutrientsLow = [&quot;],
+                                    nutrientsHigh = [&quot;]
+                                </div>
+
+                                <!-- Component Footer -->
+<!-- for
+                                                INC1177410, code change done for rec_id_target . when the form is
+                                                initially loaded and 000000000000530263 still has no value, an empty string
+                                                will be output instead of "000000000000530263" . Formal and quiet reference
+                                                notation can be used together as shown below -->
+          																						
+													        
+																																				       
+                                <div class="row plp_product__footer hidden-print" style="background:none">
+                                    <div class="col-12 text-right pl-0 at-tile-cta_btn">
+                                        <div class="added_products-tpl product-preview" data-component="preview" data-product-sku="000000000000530263">
+                                           <span class="in-basket-label target_span_aline_shrik d-none">In Cart</span>
+                                                                                                                                                                                <a class="btn btn-secondary small btn-minwidth_140 mt-0 mr-0 at-moreinfo_btn" href="https://www.hofer.at/de/p.crane-damen--herren-laufschuhe.000000000000530263.html">
+                                                Mehr Informationen
+                                            </a>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                                                                                                
+                            <article class="wrapper at-carousel-item_grp">
+                            <!-- Assigns class and ids to each product, add or remove from wishlist features  -->
+                            <div class="item plp_product at-allproductteaserbox_grpl" data-productid="000000000000543463">
+                                <span class="wishlist_tpl_target">
+                                    <button class="btn btn-light btn-ico js-btn-heart at-tile-add-to-wish-list_btn prod_recomm" data-wishlist="true" data-type="PRODUCT" data-product-code="000000000000543463" data-toggle="tooltip">
+                                        <span class="js-btn-heart_add">
+                                            <svg class="ico">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only"></span>
+                                        </span>
+                                        <span class="js-btn-heart_remove d-none">
+                                            <svg class="ico" aria-hidden="true">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart-dark">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only">Remove from list</span>
+                                        </span>
+                                    </button>
+                                </span>
+                                <!-- Shows product image, name  -->
+                                <a href="https://www.hofer.at/de/p.up--fashion-women-damen-leinenkleid.000000000000543463.html" target="_self">
+                                    <!-- Assigns the target_url data element value -->
+                                    <div class="plp_product__img">
+                                        <div class="badges-gallery card_badges">
+                                                                                        <div class="topLeft">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                            <div class="topRight">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                        </div>
+                                        <img src="https://s7g10.scene7.com/is/image/aldi/202403260195" alt="" style="object-fit:scale-down">
+                                    </div>
+                                    <h2 class="product-title" at-all-productName-lbl="">UP 2 FASHION WOMEN Damen-Leinenkleid</h2>
+                                </a>
+                                <!-- Display product price value and price before product recommendation-->
+                                <div class="row plp_product__content">
+                                    <div class="col-12 text-truncate">
+                                        <div class="price retail_price">
+                                            <span class="price at-product-price_lbl">
+                                                <!-- Assigns the Target_price data element value to entity-->
+                                                                                               €11,99
+ 
+                                                                                            </span>
+                                        </div>
+                                        <div class="col-12">
+                                            <span class="price_before prod_recomm">
+                                                <!--Assigns the Target_wasPrice data element value to entity only if wasPrice information exits-->
+                                                <p></p>
+                                                                                            </span>
+                                            <span class="additional-product-info">
+                                                <!--Assigns the Target_salesUnit element value to entity only if salesUnit information exits-->
+                                                <tr height="20px" colspan="3" width="300px">
+                                                                                                                                                                                                                <td valign="top" align="left" height="20px" colspan="3" width="330px" bgcolor="#ffffff" style="text-align:left;font-family: Helvetica, Arial, sans-serif;word-wrap:normal;color:#4A4A4A;font-size:10px;font-weight:normal;">
+                                                        per Stück</td>
+                                                                                                                                                        </tr>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+<!-- Displays energybadgelogo for a product-->
+<div class="pdpEnergyWrapper2">
+<div>
+<div class="arrowLabelWrapper">
+<!-- Check if the entity.energyClassCode is not empty and then populate logo accordingly (CIMS-1060)-->
+</div>
+</div>
+</div>
+                                <!-- Displays customer ratings for a product-->
+                                <div class="col-12 plp_product__evaluator">
+                                    <div class="rating-and-evaluators at-product-starrating_lbl at-allratingsreview_imgl">
+                                        <!-- Assigns the Target_customerRatings data element value to entity only if customerRatings information exits-->
+                                                                                <a href="https://www.hofer.at/de/p.up--fashion-women-damen-leinenkleid.000000000000543463.html" data-entity-ratings="" tabindex="0">
+                                                                                    </a>
+                                    </div>
+                                </div>
+                                                                <div class="options-onlyonline">
+                                    <!-- Assigns the Target_onlyOnline data element value to entity-->
+                                    false
+                                </div>
+                                                                <!--                    
+<div class="options-local-product">
+Product 
+</div>
+-->
+
+                                <!-- Assign values to different variables using velocity entities-->
+                                <div class="entities d-none">
+                                    foo = ,
+                                    name = UP 2 FASHION WOMEN Damen-Leinenkleid,
+                                    categoryId = ,
+                                    message = ,
+                                    thumbnailUrl = https://s7g10.scene7.com/is/image/aldi/202403260195,
+                                    value = 11.99,
+                                    pageUrl = https://www.hofer.at/de/p.up--fashion-women-damen-leinenkleid.000000000000543463.html,
+                                    inventory = $entity.inventory,
+                                    margin = $entity.margin,
+                                    brand = UP 2 FASHION,
+                                    marginLevel = ,
+                                    certificates = ,
+                                    customerRatings = ,
+                                    awards = 6856,Pictogram_00000000G15X,
+                                    wasPrice = ,
+                                    recipeCookTime = ,
+                                    recipeCourse = ,
+                                    recipeCuisine = ,
+                                    recipeDifficultyLevel = ,
+                                    grossWeight = ,
+                                    heroProduct = ,
+                                    inStore = true,
+                                    onlineDate = ,
+                                    netWeight = 0.250,
+                                    weightUnit = KG,
+                                    online = false,
+                                    onlyOnline = false,
+                                    onSalesDateTo = 10/06/2024 00:00:00,
+                                    OnSalesDateFrom = 13/05/2024 00:00:00,
+                                    recipePrepTime = ,
+                                    commodityGroupName = Damen-Textilien,
+                                    recipeIngredients = [&quot;],
+                                    status = approved,
+                                    theme = Damentextilien,
+                                    allergensContains = [&quot;],
+                                    recipeTotalTime = ,
+                                    visibilityRegions = Product,
+                                    volume = 0.000,
+                                    volumeUnit = CDM,
+                                    weightUnit = KG,
+                                    nutrientsContains = [&quot;],
+                                    nutrientsFreeFrom = [&quot;],
+                                    nutrientsLow = [&quot;],
+                                    nutrientsHigh = [&quot;]
+                                </div>
+
+                                <!-- Component Footer -->
+<!-- for
+                                                INC1177410, code change done for rec_id_target . when the form is
+                                                initially loaded and 000000000000543463 still has no value, an empty string
+                                                will be output instead of "000000000000543463" . Formal and quiet reference
+                                                notation can be used together as shown below -->
+          																						
+													        
+																																				       
+                                <div class="row plp_product__footer hidden-print" style="background:none">
+                                    <div class="col-12 text-right pl-0 at-tile-cta_btn">
+                                        <div class="added_products-tpl product-preview" data-component="preview" data-product-sku="000000000000543463">
+                                           <span class="in-basket-label target_span_aline_shrik d-none">In Cart</span>
+                                                                                                                                                                                <a class="btn btn-secondary small btn-minwidth_140 mt-0 mr-0 at-moreinfo_btn" href="https://www.hofer.at/de/p.up--fashion-women-damen-leinenkleid.000000000000543463.html">
+                                                Mehr Informationen
+                                            </a>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                                                                                                
+                            <article class="wrapper at-carousel-item_grp">
+                            <!-- Assigns class and ids to each product, add or remove from wishlist features  -->
+                            <div class="item plp_product at-allproductteaserbox_grpl" data-productid="000000000000544663">
+                                <span class="wishlist_tpl_target">
+                                    <button class="btn btn-light btn-ico js-btn-heart at-tile-add-to-wish-list_btn prod_recomm" data-wishlist="true" data-type="PRODUCT" data-product-code="000000000000544663" data-toggle="tooltip">
+                                        <span class="js-btn-heart_add">
+                                            <svg class="ico">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only"></span>
+                                        </span>
+                                        <span class="js-btn-heart_remove d-none">
+                                            <svg class="ico" aria-hidden="true">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart-dark">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only">Remove from list</span>
+                                        </span>
+                                    </button>
+                                </span>
+                                <!-- Shows product image, name  -->
+                                <a href="https://www.hofer.at/de/p.belavi-sichtschutzheck--zaun.000000000000544663.html" target="_self">
+                                    <!-- Assigns the target_url data element value -->
+                                    <div class="plp_product__img">
+                                        <div class="badges-gallery card_badges">
+                                                                                        <div class="topLeft">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                            <div class="topRight">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                        </div>
+                                        <img src="https://s7g10.scene7.com/is/image/aldi/202402090040" alt="" style="object-fit:scale-down">
+                                    </div>
+                                    <h2 class="product-title" at-all-productName-lbl="">BELAVI, Sichtschutzheck-/Zaun</h2>
+                                </a>
+                                <!-- Display product price value and price before product recommendation-->
+                                <div class="row plp_product__content">
+                                    <div class="col-12 text-truncate">
+                                        <div class="price retail_price">
+                                            <span class="price at-product-price_lbl">
+                                                <!-- Assigns the Target_price data element value to entity-->
+                                                                                               €14,99
+ 
+                                                                                            </span>
+                                        </div>
+                                        <div class="col-12">
+                                            <span class="price_before prod_recomm">
+                                                <!--Assigns the Target_wasPrice data element value to entity only if wasPrice information exits-->
+                                                <p></p>
+                                                                                            </span>
+                                            <span class="additional-product-info">
+                                                <!--Assigns the Target_salesUnit element value to entity only if salesUnit information exits-->
+                                                <tr height="20px" colspan="3" width="300px">
+                                                                                                                                                                                                                <td valign="top" align="left" height="20px" colspan="3" width="330px" bgcolor="#ffffff" style="text-align:left;font-family: Helvetica, Arial, sans-serif;word-wrap:normal;color:#4A4A4A;font-size:10px;font-weight:normal;">
+                                                        per Stück</td>
+                                                                                                                                                        </tr>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+<!-- Displays energybadgelogo for a product-->
+<div class="pdpEnergyWrapper2">
+<div>
+<div class="arrowLabelWrapper">
+<!-- Check if the entity.energyClassCode is not empty and then populate logo accordingly (CIMS-1060)-->
+</div>
+</div>
+</div>
+                                <!-- Displays customer ratings for a product-->
+                                <div class="col-12 plp_product__evaluator">
+                                    <div class="rating-and-evaluators at-product-starrating_lbl at-allratingsreview_imgl">
+                                        <!-- Assigns the Target_customerRatings data element value to entity only if customerRatings information exits-->
+                                                                                <a href="https://www.hofer.at/de/p.belavi-sichtschutzheck--zaun.000000000000544663.html" data-entity-ratings="" tabindex="0">
+                                                                                    </a>
+                                    </div>
+                                </div>
+                                                                <div class="options-onlyonline">
+                                    <!-- Assigns the Target_onlyOnline data element value to entity-->
+                                    false
+                                </div>
+                                                                <!--                    
+<div class="options-local-product">
+Product 
+</div>
+-->
+
+                                <!-- Assign values to different variables using velocity entities-->
+                                <div class="entities d-none">
+                                    foo = ,
+                                    name = BELAVI, Sichtschutzheck-/Zaun,
+                                    categoryId = ,
+                                    message = ,
+                                    thumbnailUrl = https://s7g10.scene7.com/is/image/aldi/202402090040,
+                                    value = 14.99,
+                                    pageUrl = https://www.hofer.at/de/p.belavi-sichtschutzheck--zaun.000000000000544663.html,
+                                    inventory = $entity.inventory,
+                                    margin = $entity.margin,
+                                    brand = BELAVI,
+                                    marginLevel = ,
+                                    certificates = ,
+                                    customerRatings = ,
+                                    awards = [&quot;],
+                                    wasPrice = ,
+                                    recipeCookTime = ,
+                                    recipeCourse = ,
+                                    recipeCuisine = ,
+                                    recipeDifficultyLevel = ,
+                                    grossWeight = ,
+                                    heroProduct = ,
+                                    inStore = true,
+                                    onlineDate = ,
+                                    netWeight = 3.690,
+                                    weightUnit = KG,
+                                    online = false,
+                                    onlyOnline = false,
+                                    onSalesDateTo = 10/06/2024 00:00:00,
+                                    OnSalesDateFrom = 13/05/2024 00:00:00,
+                                    recipePrepTime = ,
+                                    commodityGroupName = Gartenbedarf,
+                                    recipeIngredients = [&quot;],
+                                    status = approved,
+                                    theme = Garten,
+                                    allergensContains = [&quot;],
+                                    recipeTotalTime = ,
+                                    visibilityRegions = Product,
+                                    volume = 0.000,
+                                    volumeUnit = CDM,
+                                    weightUnit = KG,
+                                    nutrientsContains = [&quot;],
+                                    nutrientsFreeFrom = [&quot;],
+                                    nutrientsLow = [&quot;],
+                                    nutrientsHigh = [&quot;]
+                                </div>
+
+                                <!-- Component Footer -->
+<!-- for
+                                                INC1177410, code change done for rec_id_target . when the form is
+                                                initially loaded and 000000000000544663 still has no value, an empty string
+                                                will be output instead of "000000000000544663" . Formal and quiet reference
+                                                notation can be used together as shown below -->
+          																						
+													        
+																																				       
+                                <div class="row plp_product__footer hidden-print" style="background:none">
+                                    <div class="col-12 text-right pl-0 at-tile-cta_btn">
+                                        <div class="added_products-tpl product-preview" data-component="preview" data-product-sku="000000000000544663">
+                                           <span class="in-basket-label target_span_aline_shrik d-none">In Cart</span>
+                                                                                                                                                                                <a class="btn btn-secondary small btn-minwidth_140 mt-0 mr-0 at-moreinfo_btn" href="https://www.hofer.at/de/p.belavi-sichtschutzheck--zaun.000000000000544663.html">
+                                                Mehr Informationen
+                                            </a>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                                                                                                
+                            <article class="wrapper at-carousel-item_grp">
+                            <!-- Assigns class and ids to each product, add or remove from wishlist features  -->
+                            <div class="item plp_product at-allproductteaserbox_grpl" data-productid="000000000000578271">
+                                <span class="wishlist_tpl_target">
+                                    <button class="btn btn-light btn-ico js-btn-heart at-tile-add-to-wish-list_btn prod_recomm" data-wishlist="true" data-type="PRODUCT" data-product-code="000000000000578271" data-toggle="tooltip">
+                                        <span class="js-btn-heart_add">
+                                            <svg class="ico">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only"></span>
+                                        </span>
+                                        <span class="js-btn-heart_remove d-none">
+                                            <svg class="ico" aria-hidden="true">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart-dark">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only">Remove from list</span>
+                                        </span>
+                                    </button>
+                                </span>
+                                <!-- Shows product image, name  -->
+                                <a href="https://www.hofer.at/de/p.leco-pergola-lichtgrau.000000000000578271.html" target="_self">
+                                    <!-- Assigns the target_url data element value -->
+                                    <div class="plp_product__img">
+                                        <div class="badges-gallery card_badges">
+                                                                                        <div class="topLeft">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="https://s7g10.scene7.com/is/image/aldi/pictogram_hofer_online_shop" srcset="https://s7g10.scene7.com/is/image/aldi/pictogram_hofer_online_shop">
+                                                                                            </div>
+                                            <div class="topRight">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                        </div>
+                                        <img src="https://s7g10.scene7.com/is/image/aldi/202404080313" alt="" style="object-fit:scale-down">
+                                    </div>
+                                    <h2 class="product-title" at-all-productName-lbl="">LECO Pergola Lichtgrau</h2>
+                                </a>
+                                <!-- Display product price value and price before product recommendation-->
+                                <div class="row plp_product__content">
+                                    <div class="col-12 text-truncate">
+                                        <div class="price retail_price">
+                                            <span class="price at-product-price_lbl">
+                                                <!-- Assigns the Target_price data element value to entity-->
+                                                                                               €579,00
+ 
+                                                                                            </span>
+                                        </div>
+                                        <div class="col-12">
+                                            <span class="price_before prod_recomm">
+                                                <!--Assigns the Target_wasPrice data element value to entity only if wasPrice information exits-->
+                                                <p></p>
+                                                                                            </span>
+                                            <span class="additional-product-info">
+                                                <!--Assigns the Target_salesUnit element value to entity only if salesUnit information exits-->
+                                                <tr height="20px" colspan="3" width="300px">
+                                                                                                                                                                                                                <td valign="top" align="left" height="20px" colspan="3" width="330px" bgcolor="#ffffff" style="text-align:left;font-family: Helvetica, Arial, sans-serif;word-wrap:normal;color:#4A4A4A;font-size:10px;font-weight:normal;">
+                                                        per Stück</td>
+                                                                                                                                                        </tr>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+<!-- Displays energybadgelogo for a product-->
+<div class="pdpEnergyWrapper2">
+<div>
+<div class="arrowLabelWrapper">
+<!-- Check if the entity.energyClassCode is not empty and then populate logo accordingly (CIMS-1060)-->
+</div>
+</div>
+</div>
+                                <!-- Displays customer ratings for a product-->
+                                <div class="col-12 plp_product__evaluator">
+                                    <div class="rating-and-evaluators at-product-starrating_lbl at-allratingsreview_imgl">
+                                        <!-- Assigns the Target_customerRatings data element value to entity only if customerRatings information exits-->
+                                                                                <a href="https://www.hofer.at/de/p.leco-pergola-lichtgrau.000000000000578271.html" data-entity-ratings="" tabindex="0">
+                                                                                    </a>
+                                    </div>
+                                </div>
+                                                                <div class="options-onlyonline">
+                                    <!-- Assigns the Target_onlyOnline data element value to entity-->
+                                    false
+                                </div>
+                                                                <!--                    
+<div class="options-local-product">
+Product 
+</div>
+-->
+
+                                <!-- Assign values to different variables using velocity entities-->
+                                <div class="entities d-none">
+                                    foo = ,
+                                    name = LECO Pergola Lichtgrau,
+                                    categoryId = ,
+                                    message = $entity.message,
+                                    thumbnailUrl = https://s7g10.scene7.com/is/image/aldi/202404080313,
+                                    value = 579.00,
+                                    pageUrl = https://www.hofer.at/de/p.leco-pergola-lichtgrau.000000000000578271.html,
+                                    inventory = $entity.inventory,
+                                    margin = $entity.margin,
+                                    brand = LECO,
+                                    marginLevel = ,
+                                    certificates = ,
+                                    customerRatings = ,
+                                    awards = Pictogram_00000000BJWB,pictogram_00000000d2ow,pictogram_hofer_online_shop,6381,
+                                    wasPrice = ,
+                                    recipeCookTime = ,
+                                    recipeCourse = ,
+                                    recipeCuisine = ,
+                                    recipeDifficultyLevel = ,
+                                    grossWeight = ,
+                                    heroProduct = false,
+                                    inStore = true,
+                                    onlineDate = ,
+                                    netWeight = 34.100,
+                                    weightUnit = KG,
+                                    online = true,
+                                    onlyOnline = false,
+                                    onSalesDateTo = 24/06/2024 00:00:00,
+                                    OnSalesDateFrom = 13/05/2024 00:00:00,
+                                    recipePrepTime = ,
+                                    commodityGroupName = Gartenbedarf,
+                                    recipeIngredients = [&quot;],
+                                    status = approved,
+                                    theme = Weitere Angebote,
+                                    allergensContains = [&quot;],
+                                    recipeTotalTime = ,
+                                    visibilityRegions = Product,
+                                    volume = 0.000,
+                                    volumeUnit = CDM,
+                                    weightUnit = KG,
+                                    nutrientsContains = [&quot;],
+                                    nutrientsFreeFrom = [&quot;],
+                                    nutrientsLow = [&quot;],
+                                    nutrientsHigh = [&quot;]
+                                </div>
+
+                                <!-- Component Footer -->
+<!-- for
+                                                INC1177410, code change done for rec_id_target . when the form is
+                                                initially loaded and 000000000000578271 still has no value, an empty string
+                                                will be output instead of "000000000000578271" . Formal and quiet reference
+                                                notation can be used together as shown below -->
+          																						
+													        
+																																				       
+                                <div class="row plp_product__footer hidden-print" style="background:none">
+                                    <div class="col-12 text-right pl-0 at-tile-cta_btn">
+                                        <div class="added_products-tpl product-preview" data-component="preview" data-product-sku="000000000000578271">
+                                           <span class="in-basket-label target_span_aline_shrik d-none">In Cart</span>
+                                                                                        <button class="btn btn-primary small d-md-inline-block btn-minwidth_150 show-quickbuy at-options_btn text-center prod_recomm low_space_alinement" data-product-code="000000000000578271" data-target="#plp_product__modal" data-toggle="modal" data-already-in-cart="" tabindex="0" data-url="/de/quick-buy.false.000000000000578271.html?1234567890123">
+                                                <sup></sup>
+                                                Online bestellen
+                                            </button>
+                                            <a class="btn btn-secondary btn-minwidth_150 small d-sm-inline-block d-md-none  at-moreinfo_btn float-right" href="https://www.hofer.at/de/p.leco-pergola-lichtgrau.000000000000578271.html">
+                                                Mehr Informationen
+                                            </a>
+                                                                                                                                                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                                                                                                
+                            <article class="wrapper at-carousel-item_grp">
+                            <!-- Assigns class and ids to each product, add or remove from wishlist features  -->
+                            <div class="item plp_product at-allproductteaserbox_grpl" data-productid="000000000000531707">
+                                <span class="wishlist_tpl_target">
+                                    <button class="btn btn-light btn-ico js-btn-heart at-tile-add-to-wish-list_btn prod_recomm" data-wishlist="true" data-type="PRODUCT" data-product-code="000000000000531707" data-toggle="tooltip">
+                                        <span class="js-btn-heart_add">
+                                            <svg class="ico">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only"></span>
+                                        </span>
+                                        <span class="js-btn-heart_remove d-none">
+                                            <svg class="ico" aria-hidden="true">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart-dark">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only">Remove from list</span>
+                                        </span>
+                                    </button>
+                                </span>
+                                <!-- Shows product image, name  -->
+                                <a href="https://www.hofer.at/de/p.bbq-stahl-feuerschale.000000000000531707.html" target="_self">
+                                    <!-- Assigns the target_url data element value -->
+                                    <div class="plp_product__img">
+                                        <div class="badges-gallery card_badges">
+                                                                                        <div class="topLeft">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                            <div class="topRight">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                        </div>
+                                        <img src="https://s7g10.scene7.com/is/image/aldi/202404240072" alt="" style="object-fit:scale-down">
+                                    </div>
+                                    <h2 class="product-title" at-all-productName-lbl="">BBQ Stahl Feuerschale</h2>
+                                </a>
+                                <!-- Display product price value and price before product recommendation-->
+                                <div class="row plp_product__content">
+                                    <div class="col-12 text-truncate">
+                                        <div class="price retail_price">
+                                            <span class="price at-product-price_lbl">
+                                                <!-- Assigns the Target_price data element value to entity-->
+                                                                                               €39,99
+ 
+                                                                                            </span>
+                                        </div>
+                                        <div class="col-12">
+                                            <span class="price_before prod_recomm">
+                                                <!--Assigns the Target_wasPrice data element value to entity only if wasPrice information exits-->
+                                                <p></p>
+                                                                                            </span>
+                                            <span class="additional-product-info">
+                                                <!--Assigns the Target_salesUnit element value to entity only if salesUnit information exits-->
+                                                <tr height="20px" colspan="3" width="300px">
+                                                                                                                                                                                                                <td valign="top" align="left" height="20px" colspan="3" width="330px" bgcolor="#ffffff" style="text-align:left;font-family: Helvetica, Arial, sans-serif;word-wrap:normal;color:#4A4A4A;font-size:10px;font-weight:normal;">
+                                                        per Stück</td>
+                                                                                                                                                        </tr>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+<!-- Displays energybadgelogo for a product-->
+<div class="pdpEnergyWrapper2">
+<div>
+<div class="arrowLabelWrapper">
+<!-- Check if the entity.energyClassCode is not empty and then populate logo accordingly (CIMS-1060)-->
+</div>
+</div>
+</div>
+                                <!-- Displays customer ratings for a product-->
+                                <div class="col-12 plp_product__evaluator">
+                                    <div class="rating-and-evaluators at-product-starrating_lbl at-allratingsreview_imgl">
+                                        <!-- Assigns the Target_customerRatings data element value to entity only if customerRatings information exits-->
+                                                                                <a href="https://www.hofer.at/de/p.bbq-stahl-feuerschale.000000000000531707.html" data-entity-ratings="" tabindex="0">
+                                                                                    </a>
+                                    </div>
+                                </div>
+                                                                <div class="options-onlyonline">
+                                    <!-- Assigns the Target_onlyOnline data element value to entity-->
+                                    false
+                                </div>
+                                                                <!--                    
+<div class="options-local-product">
+Product 
+</div>
+-->
+
+                                <!-- Assign values to different variables using velocity entities-->
+                                <div class="entities d-none">
+                                    foo = ,
+                                    name = BBQ Stahl Feuerschale,
+                                    categoryId = ,
+                                    message = ,
+                                    thumbnailUrl = https://s7g10.scene7.com/is/image/aldi/202404240072,
+                                    value = 39.99,
+                                    pageUrl = https://www.hofer.at/de/p.bbq-stahl-feuerschale.000000000000531707.html,
+                                    inventory = $entity.inventory,
+                                    margin = $entity.margin,
+                                    brand = BBQ,
+                                    marginLevel = ,
+                                    certificates = ,
+                                    customerRatings = ,
+                                    awards = Pictogram_00000000BJWB,Pictogram_0000000009AC,1389,
+                                    wasPrice = ,
+                                    recipeCookTime = ,
+                                    recipeCourse = ,
+                                    recipeCuisine = ,
+                                    recipeDifficultyLevel = ,
+                                    grossWeight = ,
+                                    heroProduct = false,
+                                    inStore = true,
+                                    onlineDate = ,
+                                    netWeight = 7.700,
+                                    weightUnit = KG,
+                                    online = false,
+                                    onlyOnline = false,
+                                    onSalesDateTo = 10/06/2024 00:00:00,
+                                    OnSalesDateFrom = 13/05/2024 00:00:00,
+                                    recipePrepTime = ,
+                                    commodityGroupName = Sport/Camping/Freizeit,
+                                    recipeIngredients = [&quot;],
+                                    status = approved,
+                                    theme = Grillen,
+                                    allergensContains = [&quot;],
+                                    recipeTotalTime = ,
+                                    visibilityRegions = Product,
+                                    volume = 0.000,
+                                    volumeUnit = CDM,
+                                    weightUnit = KG,
+                                    nutrientsContains = [&quot;],
+                                    nutrientsFreeFrom = [&quot;],
+                                    nutrientsLow = [&quot;],
+                                    nutrientsHigh = [&quot;]
+                                </div>
+
+                                <!-- Component Footer -->
+<!-- for
+                                                INC1177410, code change done for rec_id_target . when the form is
+                                                initially loaded and 000000000000531707 still has no value, an empty string
+                                                will be output instead of "000000000000531707" . Formal and quiet reference
+                                                notation can be used together as shown below -->
+          																						
+													        
+																																				       
+                                <div class="row plp_product__footer hidden-print" style="background:none">
+                                    <div class="col-12 text-right pl-0 at-tile-cta_btn">
+                                        <div class="added_products-tpl product-preview" data-component="preview" data-product-sku="000000000000531707">
+                                           <span class="in-basket-label target_span_aline_shrik d-none">In Cart</span>
+                                                                                                                                                                                <a class="btn btn-secondary small btn-minwidth_140 mt-0 mr-0 at-moreinfo_btn" href="https://www.hofer.at/de/p.bbq-stahl-feuerschale.000000000000531707.html">
+                                                Mehr Informationen
+                                            </a>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                                                                                                
+                            <article class="wrapper at-carousel-item_grp">
+                            <!-- Assigns class and ids to each product, add or remove from wishlist features  -->
+                            <div class="item plp_product at-allproductteaserbox_grpl" data-productid="000000000000546831">
+                                <span class="wishlist_tpl_target">
+                                    <button class="btn btn-light btn-ico js-btn-heart at-tile-add-to-wish-list_btn prod_recomm" data-wishlist="true" data-type="PRODUCT" data-product-code="000000000000546831" data-toggle="tooltip">
+                                        <span class="js-btn-heart_add">
+                                            <svg class="ico">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only"></span>
+                                        </span>
+                                        <span class="js-btn-heart_remove d-none">
+                                            <svg class="ico" aria-hidden="true">
+                                                <use xlink:href="/apps/aldi/settings/wcm/designs/images/icons.svg#heart-dark">
+                                                </use>
+                                            </svg>
+                                            <span class="sr-only">Remove from list</span>
+                                        </span>
+                                    </button>
+                                </span>
+                                <!-- Shows product image, name  -->
+                                <a href="https://www.hofer.at/de/p.up--fashion-damen--herren-leder-hausschuhe.000000000000546831.html" target="_self">
+                                    <!-- Assigns the target_url data element value -->
+                                    <div class="plp_product__img">
+                                        <div class="badges-gallery card_badges">
+                                                                                        <div class="topLeft">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                            <div class="topRight">
+                                                <div class="badges-spacer"></div>
+                                                                                                <img class="row" src="" srcset="">
+                                                                                            </div>
+                                        </div>
+                                        <img src="https://s7g10.scene7.com/is/image/aldi/202403260196" alt="" style="object-fit:scale-down">
+                                    </div>
+                                    <h2 class="product-title" at-all-productName-lbl="">UP 2 FASHION Damen-/Herren-Leder-Hausschuhe</h2>
+                                </a>
+                                <!-- Display product price value and price before product recommendation-->
+                                <div class="row plp_product__content">
+                                    <div class="col-12 text-truncate">
+                                        <div class="price retail_price">
+                                            <span class="price at-product-price_lbl">
+                                                <!-- Assigns the Target_price data element value to entity-->
+                                                                                               €12,99
+ 
+                                                                                            </span>
+                                        </div>
+                                        <div class="col-12">
+                                            <span class="price_before prod_recomm">
+                                                <!--Assigns the Target_wasPrice data element value to entity only if wasPrice information exits-->
+                                                <p></p>
+                                                                                            </span>
+                                            <span class="additional-product-info">
+                                                <!--Assigns the Target_salesUnit element value to entity only if salesUnit information exits-->
+                                                <tr height="20px" colspan="3" width="300px">
+                                                                                                                                                                                                                <td valign="top" align="left" height="20px" colspan="3" width="330px" bgcolor="#ffffff" style="text-align:left;font-family: Helvetica, Arial, sans-serif;word-wrap:normal;color:#4A4A4A;font-size:10px;font-weight:normal;">
+                                                        per Paar</td>
+                                                                                                                                                        </tr>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+<!-- Displays energybadgelogo for a product-->
+<div class="pdpEnergyWrapper2">
+<div>
+<div class="arrowLabelWrapper">
+<!-- Check if the entity.energyClassCode is not empty and then populate logo accordingly (CIMS-1060)-->
+</div>
+</div>
+</div>
+                                <!-- Displays customer ratings for a product-->
+                                <div class="col-12 plp_product__evaluator">
+                                    <div class="rating-and-evaluators at-product-starrating_lbl at-allratingsreview_imgl">
+                                        <!-- Assigns the Target_customerRatings data element value to entity only if customerRatings information exits-->
+                                                                                <a href="https://www.hofer.at/de/p.up--fashion-damen--herren-leder-hausschuhe.000000000000546831.html" data-entity-ratings="" tabindex="0">
+                                                                                    </a>
+                                    </div>
+                                </div>
+                                                                <div class="options-onlyonline">
+                                    <!-- Assigns the Target_onlyOnline data element value to entity-->
+                                    false
+                                </div>
+                                                                <!--                    
+<div class="options-local-product">
+Product 
+</div>
+-->
+
+                                <!-- Assign values to different variables using velocity entities-->
+                                <div class="entities d-none">
+                                    foo = ,
+                                    name = UP 2 FASHION Damen-/Herren-Leder-Hausschuhe,
+                                    categoryId = ,
+                                    message = ,
+                                    thumbnailUrl = https://s7g10.scene7.com/is/image/aldi/202403260196,
+                                    value = 12.99,
+                                    pageUrl = https://www.hofer.at/de/p.up--fashion-damen--herren-leder-hausschuhe.000000000000546831.html,
+                                    inventory = $entity.inventory,
+                                    margin = $entity.margin,
+                                    brand = UP 2 FASHION,
+                                    marginLevel = ,
+                                    certificates = ,
+                                    customerRatings = ,
+                                    awards = 6772,
+                                    wasPrice = ,
+                                    recipeCookTime = ,
+                                    recipeCourse = ,
+                                    recipeCuisine = ,
+                                    recipeDifficultyLevel = ,
+                                    grossWeight = ,
+                                    heroProduct = ,
+                                    inStore = true,
+                                    onlineDate = ,
+                                    netWeight = 0.566,
+                                    weightUnit = KG,
+                                    online = false,
+                                    onlyOnline = false,
+                                    onSalesDateTo = 10/06/2024 00:00:00,
+                                    OnSalesDateFrom = 13/05/2024 00:00:00,
+                                    recipePrepTime = ,
+                                    commodityGroupName = Schuhe,
+                                    recipeIngredients = [&quot;],
+                                    status = approved,
+                                    theme = Damentextilien,
+                                    allergensContains = [&quot;],
+                                    recipeTotalTime = ,
+                                    visibilityRegions = Product,
+                                    volume = 0.000,
+                                    volumeUnit = CDM,
+                                    weightUnit = KG,
+                                    nutrientsContains = [&quot;],
+                                    nutrientsFreeFrom = [&quot;],
+                                    nutrientsLow = [&quot;],
+                                    nutrientsHigh = [&quot;]
+                                </div>
+
+                                <!-- Component Footer -->
+<!-- for
+                                                INC1177410, code change done for rec_id_target . when the form is
+                                                initially loaded and 000000000000546831 still has no value, an empty string
+                                                will be output instead of "000000000000546831" . Formal and quiet reference
+                                                notation can be used together as shown below -->
+          																						
+													        
+																																				       
+                                <div class="row plp_product__footer hidden-print" style="background:none">
+                                    <div class="col-12 text-right pl-0 at-tile-cta_btn">
+                                        <div class="added_products-tpl product-preview" data-component="preview" data-product-sku="000000000000546831">
+                                           <span class="in-basket-label target_span_aline_shrik d-none">In Cart</span>
+                                                                                                                                                                                <a class="btn btn-secondary small btn-minwidth_140 mt-0 mr-0 at-moreinfo_btn" href="https://www.hofer.at/de/p.up--fashion-damen--herren-leder-hausschuhe.000000000000546831.html">
+                                                Mehr Informationen
+                                            </a>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                                                                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script type="text/javascript">
+
+    /*
+     * Create function to apply responsive behaviour
+     */
+/* Creating function to call at time to show shrink recommendation for cart page. Therefore slots will be 3 slots*/
+var show_slide_target = 0;
+var brk_point_target_slides = 0
+var target_corousel_somespace_alinement = function(){
+//adding object-fit property to adjust image sizing in zoomin version
+$('#recommendation-slider').find('article div.plp_product__img img').filter(function(){return this.classList.value == ""}).css('object-fit','scale-down');
+$('button.at-tile-add-to-wish-list_btn.prod_recomm').css('padding','0');
+$('button.at-tile-add-to-wish-list_btn.prod_recomm').find('.ico').css('margin-top','-1.22em');
+$('button.at-tile-add-to-wish-list_btn.prod_recomm').css('padding','0');
+$('button.at-tile-add-to-wish-list_btn.prod_recomm').find('.ico').css('margin-top','-1.22em');
+$('#recommendation-slider').find('article button.btn-minwidth_150.prod_recomm').removeClass('d-xl-block');
+$('#recommendation-slider').find('article button.btn-minwidth_150.prod_recomm').removeClass('float-right ');
+show_slide_target = 3;
+brk_point_target_slides = 2
+}
+
+    var target_applySlick_carousel = function () {
+        $(this).find('.added_products-tpl').each(function () {
+            fiabCartButtonsContext.loadButtonContext($(this));
+        });
+        $(this).find('.rating-and-evaluators > a').each(function () {
+            var calculatedRating = $(this).data("entity-ratings") * 2;
+            $(this).addClass('rating_' + calculatedRating);
+        });
+
+var target_recomm_div = $('#recommendation-slider').find('article').width(); 
+var target_id_width = $('#recommendation-slider').width()
+//fist check condition - if article width is below 200 then show shrink version of recommendation
+if(target_recomm_div < 200){
+// calling declared function to adjust all alinement and slots showing
+target_corousel_somespace_alinement();
+}
+else{
+if(target_id_width < 700)
+{ 
+// if article width is above 200 but whole recommendation div width is below 700
+//then call shrink version of code function
+target_corousel_somespace_alinement();
+}
+else
+{
+//else recommendation is normal with 4 slots 
+show_slide_target = 4;
+brk_point_target_slides = 3;
+}
+
+}
+        $(this).slick({
+            slidesToShow: show_slide_target,
+            slidesToScroll: 1,
+            dots: true,
+            infinite: false,
+            responsive: [{
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: brk_point_target_slides
+                }
+            },
+            {
+                breakpoint: 650,
+                settings: {
+                    slidesToShow: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    dots: true
+                }
+            }
+            ]
+        });
+    }; // target_applySlick_carousel() ends
+
+    /*
+     * manageHeartClickOfRecommendations():
+     * This function is to handle wishlist button click.
+     */
+    function manageHeartClickOfRecommendations(recIdent) {
+
+        $.Topic('WishlistContext_appendClickEvent').publish();
+
+        // Update ribbon
+       $(recIdent + ' div.options-onlyonline').each(function (index) {
+            if (this.innerText == "true") {
+                this.innerText = "Nur Online erhältlich";
+            } else {
+                this.innerText = "";
+                $(this).hide();
+            }
+        });
+
+        // Set was-price in comma format (German number)
+        $(recIdent + ' span.price_before.prod_recomm del').each(function (index) {
+            if (this.innerText != "") {
+                // ES6 way of converting to country specific currency value
+                let tempVal = new Intl.NumberFormat('de-DE', { style: 'currency', currency: 'EUR' }).format(parseFloat(this.innerText))
+                this.innerText = "€ " + tempVal.substring(0, (tempVal.length - 2));
+            }
+        });
+
+        /*
+         * wishlist_ids_rec:
+         * Create array containing product-ids from recommendation section which are in wishlist
+         */
+        var wishlist_ids_rec = [];
+
+        /*
+         * checkAndProcessWishlist()
+         * Create function to check and execute only if wishlists are loaded 
+         */
+        var checkAndProcessWishlist = function () {
+            if (fiabWishlistContext.wishlists == null) {
+            } else {
+
+                /*
+                 * toggleRecommendation()
+                 * Apply applicable classes based on weather they are part of array wishlist_ids_rec or not.
+                 */
+                var toggleRecommendation = function (toggledClass) {
+                    var i = 0;
+                    $('div' + recIdent + ' article button').each(function () {
+                        var entryPId = $(this).attr('data-product-code');
+                        if (entryPId != "") {// proceed only if non-empty product-id
+                            var mySelect = $("div" + recIdent + " button[data-product-code=" + entryPId + "]");
+                            // Check if is part of wishlist...toggle accordingly
+                            if (wishlist_ids_rec.indexOf(entryPId) > -1) {
+                                mySelect.find(".js-btn-heart_add").removeClass(toggledClass);
+                                mySelect.find(".js-btn-heart_add").addClass(toggledClass);
+                                mySelect.find(".js-btn-heart_remove").removeClass(toggledClass);
+                            }
+                            // if-block ends
+                            // Else not part of wishlist...toggle accordingly
+                            else {
+                                mySelect.find(".js-btn-heart_remove").removeClass(toggledClass);
+                                mySelect.find(".js-btn-heart_remove").addClass(toggledClass);
+                                mySelect.find(".js-btn-heart_add").removeClass(toggledClass);
+                            }
+                        }
+                    }); // each-block ends
+                }; // toggleRecommendation() ends
+
+                /*
+                 * updateArrayAndToggle()
+                 * Update array "wishlist_ids_rec". Add productId if not already part of the array. Remove otherwise.
+                 */
+                var updateArrayAndToggle = function (toggledClass) {
+                    wishlist_ids_rec = [];
+                    fiabWishlistContext.wishlists[0].wishlistEntries.forEach(function (entry) {
+                        wishlist_ids_rec.push($.trim(entry.sku))
+                    });
+                    // Toggle
+                    toggleRecommendation(toggledClass);
+                }; // updateArrayAndToggle() ends
+
+                /*
+                 * setToggleOnWishlist()
+                 * Add toggle functions on wishlist symbol
+                 */
+                var setToggleOnWishlist = function () {
+                    var myelement = $('.js-btn-heart.prod_recomm');
+                    if (myelement.onclick == null) {
+                        $(document).on("click", ".js-btn-heart", function (e) {
+                            const newId = $.trim($(this).data('product-code'));
+                            updateArrayAndToggle("d-none");
+                        });
+                    }
+                };  // setToggleOnWishlist() ends
+
+                setTimeout(setToggleOnWishlist, 100);
+
+                // Remove timed event
+                clearTimeout(timedVar);
+
+                // Call toggle to update once at the beginning to update wishlist button accordingly
+                updateArrayAndToggle('d-none');
+
+            } // Else block ends
+        }; // checkAndProcessWishlist() ends
+
+        // Create timed event
+        timedVar = setInterval(checkAndProcessWishlist, 100);
+    }; // manageHeartClickOfRecommendations() ends
+
+    function manageInBasketItemsRefresh() {
+
+        refreshInBasketItems();
+        $(document).mousemove(function () {
+		
+            refreshInBasketItems();
+        });
+
+        function refreshInBasketItems() {
+            [].slice.call(document.getElementsByClassName("btn-primary prod_recomm")).forEach(function (element) {
+                if (fiabCartContext && fiabCartContext.shoppingBag) {
+                    var articleBox = element.parentElement.parentElement.parentElement.parentElement;
+                    if (fiabCartContext.shoppingBag.cartEntries.length != 0) {
+                        fiabCartContext.shoppingBag.cartEntries.forEach(function (entry) {
+                            if (entry.sku == element.getAttribute("data-product-code")) {
+                                if (articleBox.className.match("item-in-cart") == null) {
+                                    articleBox.classList.toggle("item-in-cart");
+                                }
+                                if (element.className.match("at-options_btn") != null && element.getAttribute("data-already-in-cart") != entry.qty) {
+                                    element.previousElementSibling.classList.toggle("d-none");
+                                    element.setAttribute("data-already-in-cart", entry.qty);
+                                    element.firstElementChild.innerText = entry.qty;
+                                } else if (element.className.match("btn-add-to-cart") != null && element.nextElementSibling.getAttribute("data-curr-qty") != entry.qty) {
+                                   element.classList.toggle("d-none");
+                                    element.previousElementSibling.classList.toggle("d-none");
+                                    element.nextElementSibling.classList.toggle("d-none");
+                                    element.nextElementSibling.setAttribute("data-curr-qty", entry.qty);
+                                    element.nextElementSibling.children[0].children[2].children[0].setAttribute("value", entry.qty);
+                                    if (entry.qty > 1) {
+                                        element.nextElementSibling.children[0].children[1].classList.toggle("d-none");
+                                        element.nextElementSibling.children[0].children[0].classList.toggle("d-none");
+                                    } else {
+                                        element.nextElementSibling.children[0].children[0].classList.toggle("d-none");
+                                        element.nextElementSibling.children[0].children[1].classList.toggle("d-none");
+										
+                                    }
+                                }
+                            }
+                        })
+                    } else {
+                        if (articleBox.className.match("item-in-cart") != null) {
+                            articleBox.classList.toggle("item-in-cart");
+                        }
+                     
+                        if (element.className.match("at-options_btn") != null && element.previousElementSibling.className.match("d-none") == null) {
+                            element.previousElementSibling.classList.toggle("d-none");
+							element.firstElementChild.innerText = "";
+							
+                        } else if (element.className.match("btn-add-to-cart") != null && element.className.match("d-none") != null) {
+                            element.classList.toggle("d-none");
+                            element.previousElementSibling.classList.toggle("d-none");
+                            element.nextElementSibling.classList.toggle("d-none");
+							$(".in-basket-label.target_span_aline_shrik").removeClass("d-none");
+                        }
+                    }
+                }
+            });
+        }
+    }
+
+    $(document).ready(function () {
+        let recIdent = "#recommendation-slider"
+        try {
+            manageHeartClickOfRecommendations(recIdent);
+        } catch (e) {
+            console.error('***Exception while trying to call function for handling wishlist-clicks on recommendation section: ', e.message);
+        }
+
+        try {
+            manageInBasketItemsRefresh();
+        } catch (e) {
+            console.error('***Exception while trying to call function for showing appropriate button recommendation section: ', e.message);
+        }
+
+        /*
+         * Find all div of id "recommendation-slider"
+         * For each, check if it contains "div.slick-list.draggable"
+         * If not containing, then, call slick on this div
+         * Update slick function to operate on "this"
+         */
+        $('div' + recIdent).each(function (index) {
+            if ($(this).find('div.slick-list.draggable').length == 0) {
+                try {
+//this functiona includes code for shrink recommendation slots such as cart page
+                    target_applySlick_carousel.call(this); // Bind call of slick to this div
+                } catch (e) {
+                    console.error('***Exception while trying to call slick: ', e.message);
+                }
+            }
+        });
+/* This Function is called when user clicked on(CIMS-5270)
+- EnergyBadge & - EnergyLabel is not null (A popup to show the details Energy EfficiencyLabel)
+*/
+try{
+//capturing click on energyClasscode - 
+$(".ico-inline2").click(function() {
+$("#modal_energy-label1").modal("show");
+$("#modal_energy-label1").style = "block";
+});
+
+/* This Function is called when user clicked on(CIMS-5270)
+- Close button on popup at image of Energy EfficiencyLabel)
+*/
+$("#close-energypopup").click(function() {
+$("#modal_energy-label1").modal("hide");
+})
+}
+catch(e){
+console.error('***Exceptional to bring energy label popup',e.message);
+}
+
+
+    });
+
+</script>
+</div>
+        </div>
+        
+        <br><br>
+    </div>
+</div>
+</center>
+<img height="0" width="0" style="display:none" alt="" src="https://t.neuigkeiten.hofer.at/r/?id=h8317f8bf,113765d7,1"></body>
+</html>
+
